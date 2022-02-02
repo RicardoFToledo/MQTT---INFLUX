@@ -11,6 +11,7 @@
           "AdysTech.InfluxDB.Client.Net": "0.15.0",
           "InfluxDB.Client": "3.2.0",
           "M2Mqtt": "4.3.0",
+          "Newtonsoft.Json": "13.0.1",
           "System.Reactive.Reference": "5.0.0.0"
         },
         "runtime": {

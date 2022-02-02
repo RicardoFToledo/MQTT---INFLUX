@@ -1127,7 +1127,8 @@
     ".NETCoreApp,Version=v3.1": [
       "AdysTech.InfluxDB.Client.Net >= 0.15.0",
       "InfluxDB.Client >= 3.2.0",
-      "M2Mqtt >= 4.3.0"
+      "M2Mqtt >= 4.3.0",
+      "Newtonsoft.Json >= 13.0.1"
     ]
   },
   "packageFolders": {
@@ -1188,6 +1189,10 @@
           "M2Mqtt": {
             "target": "Package",
             "version": "[4.3.0, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
           }
         },
         "imports": [
